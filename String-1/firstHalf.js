@@ -1,5 +1,5 @@
-function firstHalf(str){
-  let firstHalf = str.substring(0, str.length/2);
+function firstHalf(str) {
+  let firstHalf = str.substring(0, str.length / 2);
   return firstHalf;
 }
 
